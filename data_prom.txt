@@ -1,0 +1,26 @@
+Тут знаходяться теги по яким можна парсити інформацію зі сторінок
+
+Чи працює зараз магазин?
+('div', {'class': 'l-GwW fvQVX'})
+({'class': '_3Trjq IfSYo aXB7S'})
+
+Картка товару:
+('div', {'class': 'M3v0L DUxBc sMgZR _5R9j6 qzGRQ IM66u J5vFR hxTp1'})
+
+Назва товару:
+('span', {'class': '_3Trjq htldP _7NHpZ h97_n'})
+
+Звідки доставка (не завжди вказують звідки доставка!):
+('span', {'class': '_3Trjq aXB7S xrKUz'})
+
+Ціна (не завжди є стара ціна!)
+('span', {'data-qaid': 'old_price'})
+
+Ціна зі знижкою (нараз це фактична ціна)
+('span', {'data-qaid': 'product_price'})
+
+Магазин (треба отримати лінк на магазин href="")
+та його назва 
+('a', {'class': '_0cNvO jwtUM XCtBJ OX5sJ'})
+
+
